@@ -1,0 +1,11 @@
+{
+    "Name": "Имя",
+    "Password": "Пароль",
+    "Confirm Password": "Подтверждение пароля",
+    "Already registered?": "Уже зарегистрирован?",
+    "Register": "Зарегистрировать",
+    "Forgot your password?": "Забыл пароль?",
+    "Log in": "Войти",
+    "Register": "Регистрация",
+    "Remember me": "Запомнить меня"
+}
